@@ -1,0 +1,2 @@
+include ':app', ':notepad', ':screenshot', ':screemevent', ':screemevent'
+include ':android_00_notpad'

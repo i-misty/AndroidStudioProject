@@ -1,0 +1,1 @@
+include ':app', ':keyboardservice', ':screenshop2', ':getevent'
