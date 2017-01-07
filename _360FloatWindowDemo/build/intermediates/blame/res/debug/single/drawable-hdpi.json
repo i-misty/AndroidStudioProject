@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_big.png",
+        "source": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\src\\main\\res\\drawable-hdpi\\bg_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_small.png",
+        "source": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\src\\main\\res\\drawable-hdpi\\bg_small.png"
+    }
+]

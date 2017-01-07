@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_big.xml",
+        "source": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\src\\main\\res\\layout\\float_window_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_small.xml",
+        "source": "D:\\AndroidStudioProject\\MyDemo\\_360FloatWindowDemo\\src\\main\\res\\layout\\float_window_small.xml"
+    }
+]
